@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AaronMitAnderson
-- 👀 I’m interested in: Embedded Systems, Learning Software Enginnering Full-stack
+- 👀 I’m interested in: Embedded Systems, Learning Software Engineering Full-stack
 - 🌱 I’m currently learning: Angular 
 - 📫 How to reach me: AaronMitAnderson@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ... --->
